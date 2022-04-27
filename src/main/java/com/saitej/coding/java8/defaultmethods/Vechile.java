@@ -16,8 +16,8 @@ class Car implements Vechile {
     }
 
    //2. We can override Default methods
-    public void startEngine(){
-        System.out.println("Car.startEngine started");
-    }
+ //   public void startEngine(){
+ //       System.out.println("Car.startEngine started");
+ //   }
 
 }
