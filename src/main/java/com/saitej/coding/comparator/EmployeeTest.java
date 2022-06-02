@@ -2,7 +2,6 @@ package com.saitej.coding.comparator;
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Comparator;
 import java.util.List;
 
 public class EmployeeTest {
@@ -19,7 +18,8 @@ public class EmployeeTest {
         });*/
 
 
-        Collections.sort(employees,(o1, o2) -> o1.getSalary()<o2.getSalary()?-1:o1.getSalary()>o1.getSalary()?1:0);
+       // Collections.sort(employees,(o1, o2) -> o1.getSalary()<o2.getSalary()?-1:o1.getSalary()>o1.getSalary()?1:0);//acending
+        Collections.sort(employees,(o1, o2) -> o1.getSalary()>o2.getSalary()?-1:o1.getSalary()<o1.getSalary()?1:0);//decending
 
 
 

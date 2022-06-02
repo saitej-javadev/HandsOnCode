@@ -1,0 +1,14 @@
+
+L
+java:S1854#"6Remove this useless assignment to local variable "i3".(Õ¡¯›
+7
+java:S2129"!Remove this "Integer" constructor(ó¥æ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(÷Å‘Y
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(à««Ë
+=
+java:S1481#"'Remove this unused "i3" local variable.(Õ¡¯›
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(îæ´»ùÿÿÿÿ
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(Œù¹˜ÿÿÿÿÿ8‡Èç‡0
