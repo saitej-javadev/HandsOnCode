@@ -1,6 +1,6 @@
 package com.saitej.coding.strings;
 
-public class AddNosInString {
+public class AddNumbersInString {
     public static void main(String[] args) {
         String pattern = "#23$%*&234232SDSD";
         int sum =0;
