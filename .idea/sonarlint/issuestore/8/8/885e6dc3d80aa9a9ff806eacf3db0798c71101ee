@@ -1,0 +1,16 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æ‰¡èøÿÿÿÿ
+P	java:S125"<This block of commented-out lines of code should be removed.(˜Ì²
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í•úµ
+Z
+java:S3358"DExtract this nested ternary operation into an independent statement.(Í•úµ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‡…‹
+Z
+java:S3358"DExtract this nested ternary operation into an independent statement.(‡…‹
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÔ¹Û
+S	java:S106"9Replace this use of System.out or System.err by a logger.(üµû£üÿÿÿÿ
+:
+java:S2676"Use the original value instead.(üµû£üÿÿÿÿ
+G
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹
+b	java:S101	"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ï×ª

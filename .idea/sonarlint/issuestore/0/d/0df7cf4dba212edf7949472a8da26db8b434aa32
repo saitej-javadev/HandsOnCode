@@ -1,0 +1,5 @@
+
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Æ³êªúÿÿÿÿ8ÒëÓº—0
+9
+java:S1643"Use a StringBuilder instead.(Õêå8ø£Óº—0

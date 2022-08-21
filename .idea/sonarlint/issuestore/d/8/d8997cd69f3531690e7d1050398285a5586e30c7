@@ -1,0 +1,15 @@
+
+P
+java:S1854"":Remove this useless assignment to local variable "myList".(Ð‚°©
+N
+java:S1854"8Remove this useless assignment to local variable "list".(àºŽÑ
+?
+java:S1481")Remove this unused "list" local variable.(àºŽÑ
+V	java:S125"<This block of commented-out lines of code should be removed.(–ö¡¨þÿÿÿÿ
+A
+java:S1481""+Remove this unused "myList" local variable.(Ð‚°©
+Q	java:S125$"<This block of commented-out lines of code should be removed.(åÝª§
+Q	java:S125'"<This block of commented-out lines of code should be removed.(×âÐ“
+Q	java:S125)"<This block of commented-out lines of code should be removed.(¯åË§
+V	java:S125+"<This block of commented-out lines of code should be removed.(»ÜºÅþÿÿÿÿ
+P	java:S125-"<This block of commented-out lines of code should be removed.(¹Ù€p

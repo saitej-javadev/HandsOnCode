@@ -1,0 +1,16 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(àµ†¨
+M	java:S106 "9Replace this use of System.out or System.err by a logger.(üV
+S	java:S106C"9Replace this use of System.out or System.err by a logger.(·‚Œ“ûÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(ÏÅ…§
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106M"9Replace this use of System.out or System.err by a logger.(€Ë—ƒùÿÿÿÿ
+N	java:S106N"9Replace this use of System.out or System.err by a logger.(ÊèÑ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(•˜¤õ
+S	java:S106W"9Replace this use of System.out or System.err by a logger.(ÇàÒÇıÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(±áÂí
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(°²Õÿÿÿÿÿ8‰Æ£‡0
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¢î§‡0
+M
+java:S1128"0Remove this unused import 'javafx.scene.Parent'.(²ä¡È8ÁÎ«‡0

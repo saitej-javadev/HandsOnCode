@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì°û°
+N	java:S106"9Replace this use of System.out or System.err by a logger.(žäŸõ
+V	java:S125"<This block of commented-out lines of code should be removed.(‘¡Öúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(žõ—Ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿ªåŠþÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ

@@ -1,0 +1,10 @@
+
+Z
+java:S1854"DRemove this useless assignment to local variable "isNotNullOrEmpty".(·ÿÑ…
+Q	java:S125"<This block of commented-out lines of code should be removed.(â¢Èç
+Q	java:S125"<This block of commented-out lines of code should be removed.(€¼‹
+K
+java:S1481"5Remove this unused "isNotNullOrEmpty" local variable.(·ÿÑ…
+V	java:S125"<This block of commented-out lines of code should be removed.(ú¨Ô‘øÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ÚÙïŽùÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ

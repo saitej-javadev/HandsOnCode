@@ -1,0 +1,13 @@
+
+T
+java:S1854	"7Remove this useless assignment to local variable "arr".(È¤Óå8®ïø—0
+E
+java:S1481	"(Remove this unused "arr" local variable.(È¤Óå8¿ïø—0
+m
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(¬ù«Œúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±½çüÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(»µ‰Ö8ûûô—0
+P	java:S125"<This block of commented-out lines of code should be removed.(ÃŒğ(
+X	java:S125"<This block of commented-out lines of code should be removed.(ºŒÇ‚8Ïğø—0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8ßğø—0
